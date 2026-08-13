@@ -132,7 +132,7 @@ I'm currently exploring:
 
 **GitHub:** [@W4ashabii](https://github.com/W4ashabii)
 
-**Hugging Face:** [@W4ashabii](https://huggingface.co/w4ashabii)
+**Hugging Face:** [@W4ashabii](https://huggingface.co/W4ashabii)
 
 **LinkedIn:** [Siddhant Bhattarai](https://linkedin.com/in/siddhant-bhattarai)
 
