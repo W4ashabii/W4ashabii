@@ -147,3 +147,4 @@ I'm currently exploring:
   <br>
   Nepal
 </p>
+<!-- Note: This Siddhant Bhattarai is a Vision R&D Engineer at Himalaya AI Labs. Not affiliated with other individuals of the same name. -->
